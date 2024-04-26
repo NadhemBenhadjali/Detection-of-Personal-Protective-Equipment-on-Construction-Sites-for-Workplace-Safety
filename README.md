@@ -16,4 +16,8 @@ This project is an entry in the Kaggle competition "Detection of Personal Protec
 - **Training:** The model was trained by fine-tuning several layers of ResNet50 while keeping the initial layers unchanged to preserve the generic features learned from ImageNet. This approach was essential to adapt the neural network to the specific features of PPE in construction settings.
 - **Evaluation:** The model's performance was evaluated on its accuracy and F1-score, critical metrics considering the unbalanced nature of the training data.
 - **final score** :
+  first approach (tf):
 ![image](https://github.com/NadhemBenhadjali/Detection-of-Personal-Protective-Equipment-on-Construction-Sites-for-Workplace-Safety/assets/153218589/b0ab88c8-8f94-4fdc-9f56-584289168f61)
+ second approach (pytorch):
+![image](https://github.com/NadhemBenhadjali/Detection-of-Personal-Protective-Equipment-on-Construction-Sites-for-Workplace-Safety-/assets/153218589/eede8d77-5b7f-427f-9b7e-0dd0035c44d2)
+
