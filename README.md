@@ -1,4 +1,4 @@
-# Detection-of-Personal-Protective-Equipment-on-Construction-Sites-for-Workplace-Safety (first approach tensorflow)
+# Detection-of-Personal-Protective-Equipment-on-Construction-Sites-for-Workplace-Safety
 https://www.kaggle.com/c/gods30/
 Goal: Your mission will be to develop an automatic detection system for PPE in construction site images, using artificial intelligence to enhance worker safety.
 Here's an updated README file that reflects the specific title and details of the Kaggle competition on the detection of personal protective equipment (PPE) on construction sites for workplace safety:
